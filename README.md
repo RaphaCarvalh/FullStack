@@ -10,7 +10,7 @@ Bem-vindo à pasta **Fullstack**, o epicentro onde a magia acontece! Aqui, Front
 - **Funcionalidades Robustas:** Veja como a combinação resulta em aplicações ricas em recursos.
 
 🔗 **O que Você Encontrará Aqui:**
-Dive fundo no código fonte para desvendar os segredos por trás da integração Fullstack. Navegue pelas pastas e arquivos para entender como cada linha contribui para a construção de projetos robustos e completos.
+Mergulhe fundo no código fonte para desvendar os segredos por trás da integração Fullstack. Navegue pelas pastas e arquivos para entender como cada linha contribui para a construção de projetos robustos e completos.
 
 🌐 **Pronto para Explorar?**
 Se você está em busca de projetos que transcendem as barreiras entre frontend e backend, você está no lugar certo. Vamos explorar juntos o fascinante mundo do desenvolvimento Fullstack!
